@@ -1,4 +1,2 @@
- # QtPyVCP Custom Widget Template
+ # QtPyVCP ATC Widget
 
-This repository serves as a template for creating custom
-widget plugins for QtPyVCP.
